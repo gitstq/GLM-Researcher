@@ -1,0 +1,8 @@
+# GLM-Researcher - Zero Dependencies
+# This project requires ONLY Python 3.8+ standard library
+
+# No external dependencies required!
+# Uses only: urllib.request, json, pathlib, argparse, re, hashlib
+
+# Optional: For better JSON pretty-printing
+# pip install --break-system-packages simplejson
